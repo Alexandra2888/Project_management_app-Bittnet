@@ -1,3 +1,5 @@
+<img  width=“964” alt="project" src="https://github.com/Alexandra2888/Project_management_app/blob/main/collage.png">
+
 # Project_management_app
 
 An application made with HTML5, CSS3 and Vanilla Javascript.
